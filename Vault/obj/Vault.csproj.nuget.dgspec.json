@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\cc3-1b-habonjlg\\CC31B-TeamHalo\\Vault\\Vault.csproj": {}
+  },
+  "projects": {
+    "C:\\cc3-1b-habonjlg\\CC31B-TeamHalo\\Vault\\Vault.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cc3-1b-habonjlg\\CC31B-TeamHalo\\Vault\\Vault.csproj",
+        "projectName": "Vault",
+        "projectPath": "C:\\cc3-1b-habonjlg\\CC31B-TeamHalo\\Vault\\Vault.csproj",
+        "packagesPath": "C:\\Users\\thegr\\.nuget\\packages\\",
+        "outputPath": "C:\\cc3-1b-habonjlg\\CC31B-TeamHalo\\Vault\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\thegr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
