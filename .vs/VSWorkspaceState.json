@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vault",
+    "\\Vault\\bin",
+    "\\Vault\\bin\\Debug",
+    "\\Vault\\bin\\Debug\\net8.0-windows",
+    "\\Vault\\bin\\Release",
+    "\\Vault\\bin\\Release\\net8.0-windows",
+    "\\Vault\\obj",
+    "\\Vault\\obj\\Release"
+  ],
+  "SelectedNode": "\\Vault\\bin\\Debug",
+  "PreviewInSolutionExplorer": false
+}
