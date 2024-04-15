@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using Engine.Models.ViewModels;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,8 +17,11 @@ namespace Vault;
 /// </summary>
 public partial class MainWindow : Window
 {
+    private GameSession _gameSession;
     public MainWindow()
     {
         InitializeComponent();
+        _gameSession = new GameSession();
+        DataContext = _gameSession;
     }
 }
